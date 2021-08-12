@@ -1,0 +1,28 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\led_demo.gpr
+20210317163242 c45842d5470ead6ebf95039b824df7d4
+[BOUND OBJECT FILES]
+C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4.o
+C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-gpio.o
+C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-reset_clock_control.o
+C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-sysconfig_control.o
+C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\registers.o
+C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\button.o
+C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\leds.o
+C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\driver.o
+C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\last_chance_handler.o
+C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\
+-LC:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\
+-LC:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\
+-static
+-static-libgcc
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a

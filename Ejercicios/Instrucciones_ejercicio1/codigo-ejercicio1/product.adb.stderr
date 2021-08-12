@@ -1,0 +1,2 @@
+product.adb:1:06: warning: "System.IO" is an internal GNAT unit
+product.adb:1:06: warning: use of this unit is non-portable and version-dependent

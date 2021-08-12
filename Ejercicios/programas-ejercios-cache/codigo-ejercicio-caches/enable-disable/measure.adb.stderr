@@ -1,0 +1,3 @@
+measure.adb:2:06: file "workload.ads" not found
+measure.adb:3:06: file "pack_1.ads" not found
+measure.adb:6:06: "System.Bb" is not a predefined library unit

@@ -1,0 +1,1692 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                              C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\driver.o (ada__real_time__Oadd)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-retide.o)
+                              C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\driver.o (ada__real_time__delays__delay_until)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                              C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o) (system__bb__board_support__time__read_clock)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                              C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o) (system__bb__cpu_primitives__install_trap_handler)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbinte.o)
+                              C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o) (system__bb__interrupts__interrupt_wrapper)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthqu.o)
+                              C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbinte.o) (system__bb__threads__queues__change_priority)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o)
+                              C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-retide.o) (system__bb__time__delay_until)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bcpcst.o)
+                              C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o) (system__bb__cpu_primitives__context_switch_trigger__initialize_context_switch)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-interr.o)
+                              C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\button.o (system__interrupts__install_restricted_handlers)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprob.o)
+                              C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\button.o (system__tasking__protected_objects__initialize_protection)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tarest.o)
+                              C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\driver.o (system__tasking__restricted__stages__activate_restricted_tasks)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tasdeb.o)
+                              C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tarest.o) (system__tasking__debug__last_task)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o)
+                              C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\driver.o (system__tasking__activation_chainIP)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(handler.o)
+                              C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o) (__vectors)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbprot.o)
+                              C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o) (system__bb__protection__leave_kernel)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthre.o)
+                              C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o) (system__bb__threads__initialize)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtiev.o)
+                              C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o) (system__bb__timing_events__execute_expired_timing_events)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                              C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o) (system__task_primitives__operations__idle)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(breakpoint_handler-cortexm.o)
+                              C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(handler.o) (__gnat_bkpt_trap)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-memcop.o)
+                              C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o) (memcpy)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-memset.o)
+                              C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o) (memset)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-parame.o)
+                              C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o) (system__parameters__adjust_storage_size)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-secsta.o)
+                              b__main.o (system__secondary_stack__ss_stackIP)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(start-rom.o)
+                              (_start_rom)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-macres.o)
+                              C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(start-rom.o) (_exit)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(setup_pll.o)
+                              C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(start-rom.o) (_ada_setup_pll)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(start-common.o)
+                              C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(start-rom.o) (_stm32_start_common)
+C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-bbmcpa.o)
+                              C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(setup_pll.o) (system__bb__mcu_parameters__pwr_initialize)
+c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_ldivmod.o)
+                              C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o) (__aeabi_ldivmod)
+c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+                              C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o) (__aeabi_uldivmod)
+c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+                              c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_ldivmod.o) (__udivmoddi4)
+c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+                              c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_ldivmod.o) (__aeabi_ldiv0)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x0000000008000000 0x0000000000100000 xr
+sram12           0x0000000020000000 0x0000000000020000 xrw
+ccm              0x0000000010000000 0x0000000000010000 rw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD main.o
+LOAD b__main.o
+LOAD C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4.o
+LOAD C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-gpio.o
+LOAD C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-reset_clock_control.o
+LOAD C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-sysconfig_control.o
+LOAD C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\registers.o
+LOAD C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\button.o
+LOAD C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\leds.o
+LOAD C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\driver.o
+LOAD C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\last_chance_handler.o
+LOAD C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a
+LOAD C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a
+START GROUP
+LOAD c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a
+END GROUP
+                0x0000000000001000                _DEFAULT_STACK_SIZE = 0x1000
+
+.text           0x0000000008000000     0x3d20
+ *(.vectors)
+ .vectors       0x0000000008000000       0x14 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(start-rom.o)
+ *(.text .text.* .gnu.linkonce.t*)
+ .text          0x0000000008000014        0x8 main.o
+                0x0000000008000014                _ada_main
+ .text          0x000000000800001c      0x164 b__main.o
+                0x000000000800001c                ada_main__Tsec_default_sized_stacksBIP
+                0x0000000008000060                adainit
+                0x0000000008000148                main
+                0x0000000008000164                ada_main___elabb
+ .text          0x0000000008000180       0x3c C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4.o
+                0x0000000008000180                stm32f4__Tbits_32x1BIP
+                0x0000000008000194                stm32f4__Tbits_16x2BIP
+                0x00000000080001a8                stm32f4__Tbits_8x4BIP
+ .text          0x00000000080001bc       0x14 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-gpio.o
+                0x00000000080001bc                stm32f4__gpio__gpio_registerIP
+ .text          0x00000000080001d0       0x14 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-reset_clock_control.o
+                0x00000000080001d0                stm32f4__reset_clock_control__rcc_registerIP
+ .text          0x00000000080001e4       0x28 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-sysconfig_control.o
+                0x00000000080001e4                stm32f4__sysconfig_control__exti_registerIP
+                0x00000000080001f8                stm32f4__sysconfig_control__syscfg_registerIP
+ .text          0x000000000800020c        0xc C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\registers.o
+                0x000000000800020c                registers___elabs
+ .text          0x0000000008000218      0x23c C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\button.o
+                0x0000000008000218                button__buttonTVIP
+                0x0000000008000344                button__button__interrupt_handlerP
+                0x000000000800036c                button__current_direction
+                0x0000000008000428                button___elabb
+ .text          0x0000000008000454      0x2c0 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\leds.o
+                0x0000000008000454                leds__user_ledRP
+                0x00000000080004b4                leds__on
+                0x00000000080004d0                leds__off
+                0x00000000080004f0                leds__all_off
+                0x0000000008000508                leds__all_on
+                0x0000000008000708                leds___elabb
+ .text          0x0000000008000714      0x190 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\driver.o
+                0x0000000008000714                driver__controllerTKVIP
+                0x00000000080007c4                driver__controllerTKB
+                0x000000000800084c                driver___elabb
+                0x0000000008000868                driver___elabs
+ .text          0x00000000080008a4       0x2c C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\last_chance_handler.o
+                0x00000000080008a4                __gnat_last_chance_handler
+ .text          0x00000000080008d0        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+ .text.ada__real_time__Oadd__2
+                0x00000000080008d0       0x14 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x00000000080008d0                ada__real_time__Oadd__2
+ .text.ada__real_time__Omultiply
+                0x00000000080008e4       0xc0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x00000000080008e4                ada__real_time__Omultiply
+ .text.ada__real_time__Omultiply__2
+                0x00000000080009a4       0x14 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x00000000080009a4                ada__real_time__Omultiply__2
+ .text.ada__real_time__Oadd
+                0x00000000080009b8       0x64 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x00000000080009b8                ada__real_time__Oadd
+ .text.ada__real_time__Oadd__3
+                0x0000000008000a1c       0x28 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008000a1c                ada__real_time__Oadd__3
+ .text.ada__real_time__Osubtract
+                0x0000000008000a44       0x5c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008000a44                ada__real_time__Osubtract
+ .text.ada__real_time__Osubtract__2
+                0x0000000008000aa0       0x4c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008000aa0                ada__real_time__Osubtract__2
+ .text.ada__real_time__Osubtract__3
+                0x0000000008000aec       0x2c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008000aec                ada__real_time__Osubtract__3
+ .text.ada__real_time__Osubtract__4
+                0x0000000008000b18       0x24 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008000b18                ada__real_time__Osubtract__4
+ .text.ada__real_time__Odivide
+                0x0000000008000b3c       0x54 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008000b3c                ada__real_time__Odivide
+ .text.ada__real_time__Odivide__2
+                0x0000000008000b90       0x38 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008000b90                ada__real_time__Odivide__2
+ .text.ada__real_time__clock
+                0x0000000008000bc8       0x54 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008000bc8                ada__real_time__clock
+ .text.ada__real_time__microseconds
+                0x0000000008000c1c       0x3c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008000c1c                ada__real_time__microseconds
+ .text.ada__real_time__milliseconds
+                0x0000000008000c58       0x3c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008000c58                ada__real_time__milliseconds
+ *fill*         0x0000000008000c94        0x4 
+ .text.ada__real_time__minutes
+                0x0000000008000c98       0x50 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008000c98                ada__real_time__minutes
+ .text.ada__real_time__mul_div
+                0x0000000008000ce8      0x134 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008000ce8                ada__real_time__mul_div
+ *fill*         0x0000000008000e1c        0x4 
+ .text.ada__real_time__nanoseconds
+                0x0000000008000e20       0x44 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008000e20                ada__real_time__nanoseconds
+ .text.ada__real_time__rounded_div
+                0x0000000008000e64       0x58 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008000e64                ada__real_time__rounded_div
+ .text.ada__real_time__seconds
+                0x0000000008000ebc        0xc C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008000ebc                ada__real_time__seconds
+ .text.ada__real_time__split
+                0x0000000008000ec8       0x78 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008000ec8                ada__real_time__split
+ .text.ada__real_time__time_of
+                0x0000000008000f40      0x118 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008000f40                ada__real_time__time_of
+ .text.ada__real_time__to_duration
+                0x0000000008001058       0x10 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008001058                ada__real_time__to_duration
+ .text.ada__real_time__to_time_span
+                0x0000000008001068       0x10 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008001068                ada__real_time__to_time_span
+ .text.ada__real_time___elabb
+                0x0000000008001078        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008001078                ada__real_time___elabb
+ .text          0x000000000800107c        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-retide.o)
+ .text.ada__real_time__delays__delay_until
+                0x000000000800107c       0x30 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-retide.o)
+                0x000000000800107c                ada__real_time__delays__delay_until
+ .text.ada__real_time__delays__to_duration
+                0x00000000080010ac        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-retide.o)
+                0x00000000080010ac                ada__real_time__delays__to_duration
+ .text          0x00000000080010b4        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+ .text.system__bb__board_support__timer_interrupt_handler
+                0x00000000080010b4        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x00000000080010b4                system__bb__board_support__timer_interrupt_handler
+ .text.system__bb__board_support__interrupt_handler
+                0x00000000080010bc        0xc C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x00000000080010bc                system__bb__board_support__interrupt_handler
+ .text.system__bb__board_support__enable_interrupt_request.part.0
+                0x00000000080010c8       0x1c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+ .text.system__bb__board_support__time__max_timer_interval
+                0x00000000080010e4        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x00000000080010e4                system__bb__board_support__time__max_timer_interval
+ .text.system__bb__board_support__time__read_clock
+                0x00000000080010ec       0x40 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x00000000080010ec                system__bb__board_support__time__read_clock
+ .text.system__bb__board_support__time__clear_alarm_interrupt
+                0x000000000800112c       0x10 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x000000000800112c                system__bb__board_support__time__clear_alarm_interrupt
+ .text.system__bb__board_support__time__set_alarm
+                0x000000000800113c       0x60 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x000000000800113c                system__bb__board_support__time__set_alarm
+ .text.system__bb__board_support__time__install_alarm_handler
+                0x000000000800119c       0x24 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x000000000800119c                system__bb__board_support__time__install_alarm_handler
+ .text.system__bb__board_support__multiprocessors__number_of_cpus
+                0x00000000080011c0        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x00000000080011c0                system__bb__board_support__multiprocessors__number_of_cpus
+ .text.system__bb__board_support__multiprocessors__current_cpu
+                0x00000000080011c4        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x00000000080011c4                system__bb__board_support__multiprocessors__current_cpu
+ .text.system__bb__board_support__multiprocessors__poke_cpu
+                0x00000000080011c8        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x00000000080011c8                system__bb__board_support__multiprocessors__poke_cpu
+ .text.system__bb__board_support__multiprocessors__start_all_cpus
+                0x00000000080011cc        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x00000000080011cc                system__bb__board_support__multiprocessors__start_all_cpus
+ .text.system__bb__board_support__interrupts__install_interrupt_handler
+                0x00000000080011d0       0x5c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x00000000080011d0                system__bb__board_support__interrupts__install_interrupt_handler
+ .text.system__bb__board_support__interrupts__priority_of_interrupt
+                0x000000000800122c       0x20 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x000000000800122c                system__bb__board_support__interrupts__priority_of_interrupt
+ .text.system__bb__board_support__interrupts__power_down
+                0x000000000800124c        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x000000000800124c                system__bb__board_support__interrupts__power_down
+ .text.system__bb__board_support__interrupts__set_current_priority
+                0x0000000008001250       0x18 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x0000000008001250                system__bb__board_support__interrupts__set_current_priority
+ .text.system__bb__board_support__sys_tick_registersIP
+                0x0000000008001268        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x0000000008001268                system__bb__board_support__sys_tick_registersIP
+ .text.system__bb__board_support__TipBIP
+                0x000000000800126c        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x000000000800126c                system__bb__board_support__TipBIP
+ .text.system__bb__board_support__initialize_board
+                0x0000000008001270       0x94 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x0000000008001270                system__bb__board_support__initialize_board
+ .text.system__bb__board_support__enable_interrupt_request
+                0x0000000008001304       0x40 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x0000000008001304                system__bb__board_support__enable_interrupt_request
+ .text.system__bb__board_support__to_pri
+                0x0000000008001344       0x14 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x0000000008001344                system__bb__board_support__to_pri
+ .text.system__bb__board_support__to_priority
+                0x0000000008001358       0x10 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x0000000008001358                system__bb__board_support__to_priority
+ .text          0x0000000008001368        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+ .text.system__bb__cpu_primitives__gnat_error_handler
+                0x0000000008001368      0x108 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x0000000008001368                system__bb__cpu_primitives__gnat_error_handler
+ .text.system__bb__cpu_primitives__Tcontext_bufferBIP
+                0x0000000008001470        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x0000000008001470                system__bb__cpu_primitives__Tcontext_bufferBIP
+ .text.system__bb__cpu_primitives__hardware_contextIP
+                0x0000000008001474        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x0000000008001474                system__bb__cpu_primitives__hardware_contextIP
+ .text.primask  0x0000000008001478        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x0000000008001478                primask
+ .text.system__bb__cpu_primitives__initialize_cpu
+                0x0000000008001480       0x84 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x0000000008001480                system__bb__cpu_primitives__initialize_cpu
+ .text.system__bb__cpu_primitives__context_switch
+                0x0000000008001504        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x0000000008001504                system__bb__cpu_primitives__context_switch
+ .text.system__bb__cpu_primitives__get_context
+                0x000000000800150c        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x000000000800150c                system__bb__cpu_primitives__get_context
+ .text.__gnat_irq_trap
+                0x0000000008001514       0x48 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x0000000008001514                __gnat_irq_trap
+ .text.__gnat_sv_call_trap
+                0x000000000800155c        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x000000000800155c                __gnat_sv_call_trap
+ .text.system__bb__cpu_primitives__set_context
+                0x0000000008001564        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x0000000008001564                system__bb__cpu_primitives__set_context
+ .text.__gnat_sys_tick_trap
+                0x000000000800156c       0x64 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x000000000800156c                __gnat_sys_tick_trap
+ .text.system__bb__cpu_primitives__initialize_context
+                0x00000000080015d0       0x4c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x00000000080015d0                system__bb__cpu_primitives__initialize_context
+ .text.system__bb__cpu_primitives__install_error_handlers
+                0x000000000800161c       0x1c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x000000000800161c                system__bb__cpu_primitives__install_error_handlers
+ .text.system__bb__cpu_primitives__install_trap_handler
+                0x0000000008001638        0xc C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x0000000008001638                system__bb__cpu_primitives__install_trap_handler
+ .text.system__bb__cpu_primitives__disable_interrupts
+                0x0000000008001644        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x0000000008001644                system__bb__cpu_primitives__disable_interrupts
+ .text.system__bb__cpu_primitives__enable_interrupts
+                0x0000000008001648       0x20 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x0000000008001648                system__bb__cpu_primitives__enable_interrupts
+ .text          0x0000000008001668        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbinte.o)
+ .text.system__bb__interrupts__Tinterrupt_stacksBIP
+                0x0000000008001668        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbinte.o)
+                0x0000000008001668                system__bb__interrupts__Tinterrupt_stacksBIP
+ .text.system__bb__interrupts__Tinterrupt_stack_tableBIP
+                0x000000000800166c        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbinte.o)
+                0x000000000800166c                system__bb__interrupts__Tinterrupt_stack_tableBIP
+ .text.system__bb__interrupts__Thandlers_tableBIP
+                0x0000000008001670       0x24 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbinte.o)
+                0x0000000008001670                system__bb__interrupts__Thandlers_tableBIP
+ .text.system__bb__interrupts__attach_handler
+                0x0000000008001694       0x30 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbinte.o)
+                0x0000000008001694                system__bb__interrupts__attach_handler
+ .text.system__bb__interrupts__current_interrupt
+                0x00000000080016c4       0x1c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbinte.o)
+                0x00000000080016c4                system__bb__interrupts__current_interrupt
+ .text.system__bb__interrupts__interrupt_wrapper
+                0x00000000080016e0       0xb4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbinte.o)
+                0x00000000080016e0                system__bb__interrupts__interrupt_wrapper
+ .text.system__bb__interrupts__within_interrupt_stack
+                0x0000000008001794       0x3c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbinte.o)
+                0x0000000008001794                system__bb__interrupts__within_interrupt_stack
+ .text.system__bb__interrupts__initialize_interrupts
+                0x00000000080017d0       0x10 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbinte.o)
+                0x00000000080017d0                system__bb__interrupts__initialize_interrupts
+ .text          0x00000000080017e0        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthqu.o)
+ .text.system__bb__threads__queues__change_priority
+                0x00000000080017e0       0x6c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthqu.o)
+                0x00000000080017e0                system__bb__threads__queues__change_priority
+ .text.__gnat_context_switch_needed
+                0x000000000800184c       0x18 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthqu.o)
+                0x000000000800184c                __gnat_context_switch_needed
+ .text.system__bb__threads__queues__current_priority
+                0x0000000008001864       0x1c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthqu.o)
+                0x0000000008001864                system__bb__threads__queues__current_priority
+ .text.system__bb__threads__queues__extract
+                0x0000000008001880       0x24 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthqu.o)
+                0x0000000008001880                system__bb__threads__queues__extract
+ .text.system__bb__threads__queues__extract_first_alarm
+                0x00000000080018a4       0x24 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthqu.o)
+                0x00000000080018a4                system__bb__threads__queues__extract_first_alarm
+ .text.system__bb__threads__queues__first_thread
+                0x00000000080018c8        0xc C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthqu.o)
+                0x00000000080018c8                system__bb__threads__queues__first_thread
+ .text.system__bb__threads__queues__get_next_alarm_time
+                0x00000000080018d4       0x20 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthqu.o)
+                0x00000000080018d4                system__bb__threads__queues__get_next_alarm_time
+ .text.system__bb__threads__queues__insert
+                0x00000000080018f4       0x88 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthqu.o)
+                0x00000000080018f4                system__bb__threads__queues__insert
+ .text.system__bb__threads__queues__insert_alarm
+                0x000000000800197c       0x58 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthqu.o)
+                0x000000000800197c                system__bb__threads__queues__insert_alarm
+ .text.system__bb__threads__queues__running_thread
+                0x00000000080019d4        0xc C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthqu.o)
+                0x00000000080019d4                system__bb__threads__queues__running_thread
+ .text.system__bb__threads__queues__wakeup_expired_alarms
+                0x00000000080019e0       0xf0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthqu.o)
+                0x00000000080019e0                system__bb__threads__queues__wakeup_expired_alarms
+ .text.system__bb__threads__queues__yield
+                0x0000000008001ad0       0x4c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthqu.o)
+                0x0000000008001ad0                system__bb__threads__queues__yield
+ .text          0x0000000008001b1c        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o)
+ .text.system__bb__time__composite_execution_timeIP
+                0x0000000008001b1c        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o)
+                0x0000000008001b1c                system__bb__time__composite_execution_timeIP
+ .text.system__bb__time__composite_timeIP
+                0x0000000008001b20        0xc C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o)
+                0x0000000008001b20                system__bb__time__composite_timeIP
+ .text.system__bb__time__clock
+                0x0000000008001b2c       0x54 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o)
+                0x0000000008001b2c                system__bb__time__clock
+ .text.system__bb__time__epoch
+                0x0000000008001b80        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o)
+                0x0000000008001b80                system__bb__time__epoch
+ .text.system__bb__time__get_next_timeout
+                0x0000000008001b88       0x3c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o)
+                0x0000000008001b88                system__bb__time__get_next_timeout
+ .text.system__bb__time__initialize_timers
+                0x0000000008001bc4       0x90 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o)
+                0x0000000008001bc4                system__bb__time__initialize_timers
+ .text.system__bb__time__update_alarm
+                0x0000000008001c54       0xd8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o)
+                0x0000000008001c54                system__bb__time__update_alarm
+ .text.system__bb__time__delay_until
+                0x0000000008001d2c       0xf4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o)
+                0x0000000008001d2c                system__bb__time__delay_until
+ .text.system__bb__time__alarm_handler
+                0x0000000008001e20       0xb8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o)
+ .text.system__bb__time__Oconcat
+                0x0000000008001ed8        0xc C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o)
+                0x0000000008001ed8                system__bb__time__Oconcat
+ .text          0x0000000008001ee4        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bcpcst.o)
+ .text.system__bb__cpu_primitives__context_switch_trigger__initialize_context_switch
+                0x0000000008001ee4        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bcpcst.o)
+                0x0000000008001ee4                system__bb__cpu_primitives__context_switch_trigger__initialize_context_switch
+ .text.system__bb__cpu_primitives__context_switch_trigger__trigger_context_switch
+                0x0000000008001ee8       0x14 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bcpcst.o)
+                0x0000000008001ee8                system__bb__cpu_primitives__context_switch_trigger__trigger_context_switch
+ .text.__gnat_pend_sv_trap
+                0x0000000008001efc       0x48 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bcpcst.o)
+                0x0000000008001efc                __gnat_pend_sv_trap
+ .text          0x0000000008001f44        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-interr.o)
+ .text.system__interrupts__default_handler
+                0x0000000008001f44       0x48 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-interr.o)
+ .text.system__interrupts__install_handler
+                0x0000000008001f8c       0x40 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-interr.o)
+ .text.system__interrupts__E3sIP
+                0x0000000008001fcc        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-interr.o)
+                0x0000000008001fcc                system__interrupts__E3sIP
+ .text.system__interrupts__handler_itemIP
+                0x0000000008001fd4        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-interr.o)
+                0x0000000008001fd4                system__interrupts__handler_itemIP
+ .text.system__interrupts__handler_arrayIP
+                0x0000000008001fdc       0x28 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-interr.o)
+                0x0000000008001fdc                system__interrupts__handler_arrayIP
+ .text.system__interrupts__install_restricted_handlers
+                0x0000000008002004       0x64 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-interr.o)
+                0x0000000008002004                system__interrupts__install_restricted_handlers
+ .text.__gnat_attach_all_handlers
+                0x0000000008002068       0x40 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-interr.o)
+                0x0000000008002068                __gnat_attach_all_handlers
+ .text          0x00000000080020a8        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprob.o)
+ .text.system__tasking__protected_objects__entry_bodyIP
+                0x00000000080020a8        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprob.o)
+                0x00000000080020a8                system__tasking__protected_objects__entry_bodyIP
+ .text.system__tasking__protected_objects__initialize_protection
+                0x00000000080020b0       0x14 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprob.o)
+                0x00000000080020b0                system__tasking__protected_objects__initialize_protection
+ .text.system__tasking__protected_objects__lock
+                0x00000000080020c4       0x50 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprob.o)
+                0x00000000080020c4                system__tasking__protected_objects__lock
+ .text.system__tasking__protected_objects__unlock
+                0x0000000008002114       0x2c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprob.o)
+                0x0000000008002114                system__tasking__protected_objects__unlock
+ .text.system__tasking__protected_objects___elabb
+                0x0000000008002140        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprob.o)
+                0x0000000008002140                system__tasking__protected_objects___elabb
+ .text          0x0000000008002144        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tarest.o)
+ .text.system__tasking__restricted__stages__task_wrapper
+                0x0000000008002144       0xa0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tarest.o)
+ .text.system__tasking__restricted__stages__create_restricted_task__2
+                0x00000000080021e4       0xb0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tarest.o)
+ .text.system__tasking__restricted__stages__activate_tasks
+                0x0000000008002294       0x94 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tarest.o)
+ .text.__gnat_activate_all_tasks
+                0x0000000008002328       0x14 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tarest.o)
+                0x0000000008002328                __gnat_activate_all_tasks
+ .text.system__tasking__restricted__stages__activate_restricted_tasks
+                0x000000000800233c       0x20 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tarest.o)
+                0x000000000800233c                system__tasking__restricted__stages__activate_restricted_tasks
+ .text.system__tasking__restricted__stages__complete_restricted_activation
+                0x000000000800235c        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tarest.o)
+                0x000000000800235c                system__tasking__restricted__stages__complete_restricted_activation
+ .text.system__tasking__restricted__stages__complete_restricted_task
+                0x0000000008002360       0x10 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tarest.o)
+                0x0000000008002360                system__tasking__restricted__stages__complete_restricted_task
+ .text.system__tasking__restricted__stages__create_restricted_task
+                0x0000000008002370       0x64 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tarest.o)
+                0x0000000008002370                system__tasking__restricted__stages__create_restricted_task
+ .text.system__tasking__restricted__stages__create_restricted_task_sequential
+                0x00000000080023d4       0x34 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tarest.o)
+                0x00000000080023d4                system__tasking__restricted__stages__create_restricted_task_sequential
+ .text.system__tasking__restricted__stages__finalize_global_tasks
+                0x0000000008002408       0x10 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tarest.o)
+                0x0000000008002408                system__tasking__restricted__stages__finalize_global_tasks
+ .text.system__tasking__restricted__stages__restricted_terminated
+                0x0000000008002418       0x10 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tarest.o)
+                0x0000000008002418                system__tasking__restricted__stages__restricted_terminated
+ .text.system__tasking__restricted__stages___elabb
+                0x0000000008002428        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tarest.o)
+                0x0000000008002428                system__tasking__restricted__stages___elabb
+ .text          0x000000000800242c        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tasdeb.o)
+ .text.system__tasking__debug__add_task_id
+                0x000000000800242c       0x3c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tasdeb.o)
+                0x000000000800242c                system__tasking__debug__add_task_id
+ .text          0x0000000008002468        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o)
+ .text.system__tasking__E5sIP
+                0x0000000008002468        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o)
+                0x0000000008002468                system__tasking__E5sIP
+ .text.system__tasking__activation_chainIP
+                0x0000000008002470        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o)
+                0x0000000008002470                system__tasking__activation_chainIP
+ .text.__gnat_get_secondary_stack
+                0x0000000008002478       0x10 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o)
+                0x0000000008002478                __gnat_get_secondary_stack
+ .text.system__tasking__initialize_atcb
+                0x0000000008002488       0x34 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o)
+                0x0000000008002488                system__tasking__initialize_atcb
+ .text.system__tasking__initialize
+                0x00000000080024bc      0x15c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o)
+                0x00000000080024bc                system__tasking__initialize
+ .text.system__tasking__self
+                0x0000000008002618        0xc C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o)
+                0x0000000008002618                system__tasking__self
+ .text.system__tasking__storage_size
+                0x0000000008002624        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o)
+                0x0000000008002624                system__tasking__storage_size
+ *fill*         0x000000000800262c      0x1d4 
+ .text          0x0000000008002800      0x194 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(handler.o)
+                0x0000000008002800                __vectors
+ .text          0x0000000008002994        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbprot.o)
+ .text.system__bb__protection__enter_kernel
+                0x0000000008002994        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbprot.o)
+                0x0000000008002994                system__bb__protection__enter_kernel
+ .text.system__bb__protection__leave_kernel
+                0x0000000008002998       0x34 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbprot.o)
+                0x0000000008002998                system__bb__protection__leave_kernel
+ .text          0x00000000080029cc        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthre.o)
+ .text.system__bb__threads__thread_descriptorIP
+                0x00000000080029cc        0xc C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthre.o)
+                0x00000000080029cc                system__bb__threads__thread_descriptorIP
+ .text.system__bb__threads__get_affinity
+                0x00000000080029d8        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthre.o)
+                0x00000000080029d8                system__bb__threads__get_affinity
+ .text.system__bb__threads__get_cpu
+                0x00000000080029e0        0xc C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthre.o)
+                0x00000000080029e0                system__bb__threads__get_cpu
+ .text.system__bb__threads__get_atcb
+                0x00000000080029ec        0xc C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthre.o)
+                0x00000000080029ec                system__bb__threads__get_atcb
+ .text.system__bb__threads__get_priority
+                0x00000000080029f8        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthre.o)
+                0x00000000080029f8                system__bb__threads__get_priority
+ .text.system__bb__threads__initialize
+                0x00000000080029fc      0x150 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthre.o)
+                0x00000000080029fc                system__bb__threads__initialize
+ .text.system__bb__threads__initialize_slave
+                0x0000000008002b4c       0xa0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthre.o)
+                0x0000000008002b4c                system__bb__threads__initialize_slave
+ .text.system__bb__threads__set_atcb
+                0x0000000008002bec        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthre.o)
+                0x0000000008002bec                system__bb__threads__set_atcb
+ .text.system__bb__threads__set_priority
+                0x0000000008002bf0       0x1c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthre.o)
+                0x0000000008002bf0                system__bb__threads__set_priority
+ .text.system__bb__threads__sleep
+                0x0000000008002c0c       0x44 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthre.o)
+                0x0000000008002c0c                system__bb__threads__sleep
+ .text.system__bb__threads__thread_create
+                0x0000000008002c50      0x10c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthre.o)
+                0x0000000008002c50                system__bb__threads__thread_create
+ .text.system__bb__threads__thread_self
+                0x0000000008002d5c        0xc C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthre.o)
+                0x0000000008002d5c                system__bb__threads__thread_self
+ .text.system__bb__threads__wakeup
+                0x0000000008002d68       0x94 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthre.o)
+                0x0000000008002d68                system__bb__threads__wakeup
+ .text          0x0000000008002dfc        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtiev.o)
+ .text.system__bb__timing_events___size
+                0x0000000008002dfc        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtiev.o)
+                0x0000000008002dfc                system__bb__timing_events___size
+ .text.system__bb__timing_events__time_of_event
+                0x0000000008002e04       0x10 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtiev.o)
+                0x0000000008002e04                system__bb__timing_events__time_of_event
+ .text.system__bb__timing_events__set_handler
+                0x0000000008002e14       0xa8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtiev.o)
+                0x0000000008002e14                system__bb__timing_events__set_handler
+ .text.system__bb__timing_events__cancel_handler
+                0x0000000008002ebc       0x50 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtiev.o)
+                0x0000000008002ebc                system__bb__timing_events__cancel_handler
+ .text.system__bb__timing_events__timing_eventIP
+                0x0000000008002f0c       0x1c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtiev.o)
+                0x0000000008002f0c                system__bb__timing_events__timing_eventIP
+ .text.system__bb__timing_events__execute_expired_timing_events
+                0x0000000008002f28       0x78 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtiev.o)
+                0x0000000008002f28                system__bb__timing_events__execute_expired_timing_events
+ .text.system__bb__timing_events__get_next_timeout
+                0x0000000008002fa0       0x20 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtiev.o)
+                0x0000000008002fa0                system__bb__timing_events__get_next_timeout
+ .text          0x0000000008002fc0        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+ .text.system__task_primitives__operations__Tidle_stacksBIP
+                0x0000000008002fc0        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x0000000008002fc0                system__task_primitives__operations__Tidle_stacksBIP
+ .text.system__task_primitives__operations__Tidle_stacks_tableBIP
+                0x0000000008002fc4        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x0000000008002fc4                system__task_primitives__operations__Tidle_stacks_tableBIP
+ .text.system__task_primitives__operations__Tidle_tasksBIP
+                0x0000000008002fc8        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x0000000008002fc8                system__task_primitives__operations__Tidle_tasksBIP
+ .text.system__task_primitives__operations__self
+                0x0000000008002fcc        0xc C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x0000000008002fcc                system__task_primitives__operations__self
+ .text.system__task_primitives__operations__sleep
+                0x0000000008002fd8        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x0000000008002fd8                system__task_primitives__operations__sleep
+ .text.system__task_primitives__operations__delay_until
+                0x0000000008002fdc       0x1c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x0000000008002fdc                system__task_primitives__operations__delay_until
+ .text.system__task_primitives__operations__monotonic_clock
+                0x0000000008002ff8       0x54 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x0000000008002ff8                system__task_primitives__operations__monotonic_clock
+ .text.system__task_primitives__operations__wakeup
+                0x000000000800304c        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x000000000800304c                system__task_primitives__operations__wakeup
+ .text.system__task_primitives__operations__set_priority
+                0x0000000008003054       0x18 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x0000000008003054                system__task_primitives__operations__set_priority
+ .text.system__task_primitives__operations__get_priority
+                0x000000000800306c        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x000000000800306c                system__task_primitives__operations__get_priority
+ .text.system__task_primitives__operations__get_affinity
+                0x0000000008003074        0xc C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x0000000008003074                system__task_primitives__operations__get_affinity
+ .text.system__task_primitives__operations__get_cpu
+                0x0000000008003080       0x10 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x0000000008003080                system__task_primitives__operations__get_cpu
+ .text.system__task_primitives__operations__get_thread_id
+                0x0000000008003090        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x0000000008003090                system__task_primitives__operations__get_thread_id
+ .text.system__task_primitives__operations__enter_task
+                0x0000000008003098       0x3c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x0000000008003098                system__task_primitives__operations__enter_task
+ .text.system__task_primitives__operations__idle
+                0x00000000080030d4       0x14 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x00000000080030d4                system__task_primitives__operations__idle
+ .text.system__task_primitives__operations__initialize_tcb
+                0x00000000080030e8        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x00000000080030e8                system__task_primitives__operations__initialize_tcb
+ .text.system__task_primitives__operations__create_task
+                0x00000000080030ec       0x34 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x00000000080030ec                system__task_primitives__operations__create_task
+ .text.system__task_primitives__operations__initialize_idle
+                0x0000000008003120       0x60 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x0000000008003120                system__task_primitives__operations__initialize_idle
+ .text.__gnat_initialize_slave
+                0x0000000008003180       0x34 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x0000000008003180                __gnat_initialize_slave
+ .text.system__task_primitives__operations__initialize
+                0x00000000080031b4       0xac C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x00000000080031b4                system__task_primitives__operations__initialize
+ .text.system__task_primitives__operations__is_task_context
+                0x0000000008003260       0x14 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x0000000008003260                system__task_primitives__operations__is_task_context
+ .text          0x0000000008003274       0x20 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(breakpoint_handler-cortexm.o)
+                0x0000000008003274                __gnat_bkpt_trap
+ .text          0x0000000008003294        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-memcop.o)
+ .text.memcpy   0x0000000008003294       0x50 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-memcop.o)
+                0x0000000008003294                memcpy
+ .text          0x00000000080032e4        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-memset.o)
+ .text.memset   0x00000000080032e4       0x50 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-memset.o)
+                0x00000000080032e4                memset
+ .text          0x0000000008003334        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-parame.o)
+ .text.system__parameters__adjust_storage_size
+                0x0000000008003334        0xc C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-parame.o)
+                0x0000000008003334                system__parameters__adjust_storage_size
+ .text          0x0000000008003340        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-secsta.o)
+ .text.system__secondary_stack__memoryIP
+                0x0000000008003340        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-secsta.o)
+                0x0000000008003340                system__secondary_stack__memoryIP
+ .text.system__secondary_stack__ss_stackIP
+                0x0000000008003344        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-secsta.o)
+                0x0000000008003344                system__secondary_stack__ss_stackIP
+ .text.system__secondary_stack__ss_allocate
+                0x0000000008003348       0x60 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-secsta.o)
+                0x0000000008003348                system__secondary_stack__ss_allocate
+ .text.system__secondary_stack__ss_get_max
+                0x00000000080033a8       0x10 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-secsta.o)
+                0x00000000080033a8                system__secondary_stack__ss_get_max
+ .text.system__secondary_stack__ss_init
+                0x00000000080033b8       0x6c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-secsta.o)
+                0x00000000080033b8                system__secondary_stack__ss_init
+ .text.system__secondary_stack__ss_mark
+                0x0000000008003424        0xc C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-secsta.o)
+                0x0000000008003424                system__secondary_stack__ss_mark
+ .text.system__secondary_stack__ss_release
+                0x0000000008003430        0xc C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-secsta.o)
+                0x0000000008003430                system__secondary_stack__ss_release
+ .text          0x000000000800343c       0x70 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(start-rom.o)
+                0x000000000800343c                _start_rom
+ .text          0x00000000080034ac        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-macres.o)
+ .text._exit    0x00000000080034ac       0x10 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-macres.o)
+                0x00000000080034ac                _exit
+ .text.abort    0x00000000080034bc        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-macres.o)
+                0x00000000080034bc                abort
+ .text.system__machine_reset__stop
+                0x00000000080034c4        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-macres.o)
+                0x00000000080034c4                system__machine_reset__stop
+ .text          0x00000000080034cc        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(setup_pll.o)
+ .text._ada_setup_pll
+                0x00000000080034cc      0x394 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(setup_pll.o)
+                0x00000000080034cc                _ada_setup_pll
+ .text          0x0000000008003860      0x104 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(start-common.o)
+                0x0000000008003860                _stm32_start_common
+ .text          0x0000000008003964        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-bbmcpa.o)
+ .text.system__bb__mcu_parameters__is_pwr_stabilized
+                0x0000000008003964       0x10 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-bbmcpa.o)
+                0x0000000008003964                system__bb__mcu_parameters__is_pwr_stabilized
+ .text.system__bb__mcu_parameters__pwr_initialize
+                0x0000000008003974       0x10 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-bbmcpa.o)
+                0x0000000008003974                system__bb__mcu_parameters__pwr_initialize
+ .text.system__bb__mcu_parameters__pwr_overdrive_enable
+                0x0000000008003984        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-bbmcpa.o)
+                0x0000000008003984                system__bb__mcu_parameters__pwr_overdrive_enable
+ .text          0x0000000008003988       0xa0 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_ldivmod.o)
+                0x0000000008003988                __aeabi_ldivmod
+ .text          0x0000000008003a28       0x30 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+                0x0000000008003a28                __aeabi_uldivmod
+ .text          0x0000000008003a58      0x2c4 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+                0x0000000008003a58                __udivmoddi4
+ .text          0x0000000008003d1c        0x4 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+                0x0000000008003d1c                __aeabi_idiv0
+                0x0000000008003d1c                __aeabi_ldiv0
+ *(.gnu.warning)
+
+.glue_7         0x0000000008003d20        0x0
+ .glue_7        0x0000000008003d20        0x0 linker stubs
+
+.glue_7t        0x0000000008003d20        0x0
+ .glue_7t       0x0000000008003d20        0x0 linker stubs
+
+.vfp11_veneer   0x0000000008003d20        0x0
+ .vfp11_veneer  0x0000000008003d20        0x0 linker stubs
+
+.v4_bx          0x0000000008003d20        0x0
+ .v4_bx         0x0000000008003d20        0x0 linker stubs
+
+.iplt           0x0000000008003d20        0x0
+ .iplt          0x0000000008003d20        0x0 main.o
+
+.ARM.extab      0x0000000008003d20        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x0000000008003d20        0x0 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+                0x0000000008003d20                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__exidx_start = .)
+
+.ARM.exidx      0x0000000008003d20        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0000000008003d20        0x8 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+                [!provide]                        PROVIDE (__exidx_end = .)
+
+.rodata         0x0000000008003d28      0x828
+ *(.lit)
+ *(.rodata .rodata.* .gnu.linkonce.r*)
+ .rodata        0x0000000008003d28       0x3e b__main.o
+                0x0000000008003d30                __gnat_version
+                0x0000000008003d5c                __gnat_ada_main_program_name
+ *fill*         0x0000000008003d66        0x2 
+ .rodata        0x0000000008003d68       0x1c C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-gpio.o
+                0x0000000008003d68                stm32f4__gpio__mode_in
+                0x0000000008003d69                stm32f4__gpio__mode_out
+                0x0000000008003d6a                stm32f4__gpio__mode_af
+                0x0000000008003d6b                stm32f4__gpio__mode_an
+                0x0000000008003d6c                stm32f4__gpio__type_pp
+                0x0000000008003d6d                stm32f4__gpio__type_od
+                0x0000000008003d6e                stm32f4__gpio__speed_2mhz
+                0x0000000008003d6f                stm32f4__gpio__speed_25mhz
+                0x0000000008003d70                stm32f4__gpio__speed_50mhz
+                0x0000000008003d71                stm32f4__gpio__speed_100mhz
+                0x0000000008003d72                stm32f4__gpio__no_pull
+                0x0000000008003d73                stm32f4__gpio__pull_up
+                0x0000000008003d74                stm32f4__gpio__pull_down
+                0x0000000008003d75                stm32f4__gpio__af_usart1
+                0x0000000008003d78                stm32f4__gpio__gpioa_reset
+                0x0000000008003d7c                stm32f4__gpio__gpiob_reset
+                0x0000000008003d80                stm32f4__gpio__gpio_others_reset
+ .rodata        0x0000000008003d84       0xe4 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-reset_clock_control.o
+                0x0000000008003d84                stm32f4__reset_clock_control__hsion
+                0x0000000008003d88                stm32f4__reset_clock_control__hsirdy
+                0x0000000008003d8c                stm32f4__reset_clock_control__hseon
+                0x0000000008003d90                stm32f4__reset_clock_control__hserdy
+                0x0000000008003d94                stm32f4__reset_clock_control__hsebyp
+                0x0000000008003d98                stm32f4__reset_clock_control__csson
+                0x0000000008003d9c                stm32f4__reset_clock_control__pllon
+                0x0000000008003da0                stm32f4__reset_clock_control__pllrdy
+                0x0000000008003da4                stm32f4__reset_clock_control__plli2son
+                0x0000000008003da8                stm32f4__reset_clock_control__plli2srdy
+                0x0000000008003dac                stm32f4__reset_clock_control__hpre_div1
+                0x0000000008003db0                stm32f4__reset_clock_control__hpre_div2
+                0x0000000008003db4                stm32f4__reset_clock_control__hpre_div4
+                0x0000000008003db8                stm32f4__reset_clock_control__hpre_div8
+                0x0000000008003dbc                stm32f4__reset_clock_control__hpre_div16
+                0x0000000008003dc0                stm32f4__reset_clock_control__hpre_div64
+                0x0000000008003dc4                stm32f4__reset_clock_control__hpre_div128
+                0x0000000008003dc8                stm32f4__reset_clock_control__hpre_div256
+                0x0000000008003dcc                stm32f4__reset_clock_control__hpre_div512
+                0x0000000008003dd0                stm32f4__reset_clock_control__ppre1_div1
+                0x0000000008003dd4                stm32f4__reset_clock_control__ppre1_div2
+                0x0000000008003dd8                stm32f4__reset_clock_control__ppre1_div4
+                0x0000000008003ddc                stm32f4__reset_clock_control__ppre1_div8
+                0x0000000008003de0                stm32f4__reset_clock_control__ppre1_div16
+                0x0000000008003de4                stm32f4__reset_clock_control__ppre2_div1
+                0x0000000008003de8                stm32f4__reset_clock_control__ppre2_div2
+                0x0000000008003dec                stm32f4__reset_clock_control__ppre2_div4
+                0x0000000008003df0                stm32f4__reset_clock_control__ppre2_div8
+                0x0000000008003df4                stm32f4__reset_clock_control__ppre2_div16
+                0x0000000008003df8                stm32f4__reset_clock_control__mco1sel_hsi
+                0x0000000008003dfc                stm32f4__reset_clock_control__mco1sel_lse
+                0x0000000008003e00                stm32f4__reset_clock_control__mco1sel_hse
+                0x0000000008003e04                stm32f4__reset_clock_control__mco1sel_pll
+                0x0000000008003e08                stm32f4__reset_clock_control__mco1pre_div1
+                0x0000000008003e0c                stm32f4__reset_clock_control__mco1pre_div2
+                0x0000000008003e10                stm32f4__reset_clock_control__mco1pre_div3
+                0x0000000008003e14                stm32f4__reset_clock_control__mco1pre_div4
+                0x0000000008003e18                stm32f4__reset_clock_control__mco1pre_div5
+                0x0000000008003e1c                stm32f4__reset_clock_control__mco2sel_sysclk
+                0x0000000008003e20                stm32f4__reset_clock_control__mco2sel_plli2s
+                0x0000000008003e24                stm32f4__reset_clock_control__mco2sel_hse
+                0x0000000008003e28                stm32f4__reset_clock_control__mco2sel_pll
+                0x0000000008003e2c                stm32f4__reset_clock_control__mco2pre_div1
+                0x0000000008003e30                stm32f4__reset_clock_control__mco2pre_div2
+                0x0000000008003e34                stm32f4__reset_clock_control__mco2pre_div3
+                0x0000000008003e38                stm32f4__reset_clock_control__mco2pre_div4
+                0x0000000008003e3c                stm32f4__reset_clock_control__mco2pre_div5
+                0x0000000008003e40                stm32f4__reset_clock_control__i2ssrc_plli2s
+                0x0000000008003e44                stm32f4__reset_clock_control__i2ssrc_pckin
+                0x0000000008003e48                stm32f4__reset_clock_control__sw_hsi
+                0x0000000008003e4c                stm32f4__reset_clock_control__sw_hse
+                0x0000000008003e50                stm32f4__reset_clock_control__sw_pll
+                0x0000000008003e54                stm32f4__reset_clock_control__sws_hsi
+                0x0000000008003e58                stm32f4__reset_clock_control__sws_hse
+                0x0000000008003e5c                stm32f4__reset_clock_control__sws_pll
+                0x0000000008003e60                stm32f4__reset_clock_control__lsion
+                0x0000000008003e64                stm32f4__reset_clock_control__lsirdy
+ .rodata        0x0000000008003e68       0x14 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\registers.o
+                0x0000000008003e68                registers__rcc
+                0x0000000008003e6c                registers__gpioa
+                0x0000000008003e70                registers__gpiod
+                0x0000000008003e74                registers__exti
+                0x0000000008003e78                registers__syscfg
+ .rodata        0x0000000008003e7c       0x28 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\button.o
+                0x0000000008003e84                button__directionsS
+                0x0000000008003ea0                button__directionsN
+ .rodata        0x0000000008003ea4       0x44 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\leds.o
+                0x0000000008003ea4                leds__user_ledS
+                0x0000000008003eb8                leds__user_ledN
+                0x0000000008003ec0                leds__user_ledA
+                0x0000000008003ed0                leds__led3
+                0x0000000008003ed4                leds__led4
+                0x0000000008003ed8                leds__led5
+                0x0000000008003edc                leds__led6
+                0x0000000008003ee0                leds__all_leds_on
+                0x0000000008003ee4                leds__all_leds_off
+ .rodata        0x0000000008003ee8       0x1c C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\driver.o
+                0x0000000008003ef0                driver___master
+ .rodata        0x0000000008003f04        0xd C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+ *fill*         0x0000000008003f11        0x3 
+ .rodata.ada__real_time__duration_units
+                0x0000000008003f14        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008003f14                ada__real_time__duration_units
+ .rodata.ada__real_time__tick
+                0x0000000008003f18        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008003f18                ada__real_time__tick
+ .rodata.ada__real_time__time_first
+                0x0000000008003f20        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008003f20                ada__real_time__time_first
+ .rodata.ada__real_time__time_last
+                0x0000000008003f28        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008003f28                ada__real_time__time_last
+ .rodata.ada__real_time__time_span_first
+                0x0000000008003f30        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008003f30                ada__real_time__time_span_first
+ .rodata.ada__real_time__time_span_last
+                0x0000000008003f38        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008003f38                ada__real_time__time_span_last
+ .rodata.ada__real_time__time_span_unit
+                0x0000000008003f40        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008003f40                ada__real_time__time_span_unit
+ .rodata.ada__real_time__time_span_zero
+                0x0000000008003f48        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000008003f48                ada__real_time__time_span_zero
+ .rodata        0x0000000008003f50        0xd C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-retide.o)
+ *fill*         0x0000000008003f5d        0x3 
+ .rodata        0x0000000008003f60        0xd C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+ *fill*         0x0000000008003f6d        0x3 
+ .rodata.system__bb__board_support__alarm_interrupt_id
+                0x0000000008003f70        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x0000000008003f70                system__bb__board_support__alarm_interrupt_id
+ .rodata.system__bb__board_support__interrupt_request_vector
+                0x0000000008003f74        0x1 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x0000000008003f74                system__bb__board_support__interrupt_request_vector
+ *fill*         0x0000000008003f75        0x3 
+ .rodata.system__bb__board_support__nvic_iser0
+                0x0000000008003f78        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x0000000008003f78                system__bb__board_support__nvic_iser0
+ .rodata.system__bb__board_support__sys_tick_vector
+                0x0000000008003f7c        0x1 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x0000000008003f7c                system__bb__board_support__sys_tick_vector
+ *fill*         0x0000000008003f7d        0x3 
+ .rodata.system__bb__board_support__tick_period
+                0x0000000008003f80        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x0000000008003f80                system__bb__board_support__tick_period
+ .rodata.system__bb__cpu_primitives__gnat_error_handler.str1.4
+                0x0000000008003f84      0x16c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+ .rodata        0x00000000080040f0       0xc9 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+ .rodata.system__bb__cpu_primitives__bus_fault_vector
+                0x00000000080041b9        0x1 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x00000000080041b9                system__bb__cpu_primitives__bus_fault_vector
+ .rodata.system__bb__cpu_primitives__hard_fault_vector
+                0x00000000080041ba        0x1 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x00000000080041ba                system__bb__cpu_primitives__hard_fault_vector
+ .rodata.system__bb__cpu_primitives__has_os_extensions
+                0x00000000080041bb        0x1 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x00000000080041bb                system__bb__cpu_primitives__has_os_extensions
+ .rodata.system__bb__cpu_primitives__has_vtor
+                0x00000000080041bc        0x1 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x00000000080041bc                system__bb__cpu_primitives__has_vtor
+ .rodata.system__bb__cpu_primitives__interrupt_request_vector
+                0x00000000080041bd        0x1 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x00000000080041bd                system__bb__cpu_primitives__interrupt_request_vector
+ .rodata.system__bb__cpu_primitives__is_armv6m
+                0x00000000080041be        0x1 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x00000000080041be                system__bb__cpu_primitives__is_armv6m
+ *fill*         0x00000000080041bf        0x1 
+ .rodata.system__bb__cpu_primitives__nl
+                0x00000000080041c0        0x2 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x00000000080041c0                system__bb__cpu_primitives__nl
+ .rodata.system__bb__cpu_primitives__nmi_vector
+                0x00000000080041c2        0x1 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x00000000080041c2                system__bb__cpu_primitives__nmi_vector
+ .rodata.system__bb__cpu_primitives__pend_sv_vector
+                0x00000000080041c3        0x1 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x00000000080041c3                system__bb__cpu_primitives__pend_sv_vector
+ .rodata.system__bb__cpu_primitives__reset_vector
+                0x00000000080041c4        0x1 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x00000000080041c4                system__bb__cpu_primitives__reset_vector
+ .rodata.system__bb__cpu_primitives__sp_process
+                0x00000000080041c5        0x1 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x00000000080041c5                system__bb__cpu_primitives__sp_process
+ .rodata.system__bb__cpu_primitives__sv_call_vector
+                0x00000000080041c6        0x1 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x00000000080041c6                system__bb__cpu_primitives__sv_call_vector
+ .rodata.system__bb__cpu_primitives__sys_tick_vector
+                0x00000000080041c7        0x1 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x00000000080041c7                system__bb__cpu_primitives__sys_tick_vector
+ .rodata.system__bb__cpu_primitives__usage_fault_vector
+                0x00000000080041c8        0x1 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x00000000080041c8                system__bb__cpu_primitives__usage_fault_vector
+ *fill*         0x00000000080041c9        0x3 
+ .rodata        0x00000000080041cc        0xd C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbinte.o)
+ *fill*         0x00000000080041d9        0x3 
+ .rodata.system__bb__interrupts__no_interrupt
+                0x00000000080041dc        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbinte.o)
+                0x00000000080041dc                system__bb__interrupts__no_interrupt
+ .rodata.system__bb__time__initial_composite_execution_time
+                0x00000000080041e0        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o)
+                0x00000000080041e0                system__bb__time__initial_composite_execution_time
+ .rodata.system__bb__time__periods_in_epoch
+                0x00000000080041e8        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o)
+                0x00000000080041e8                system__bb__time__periods_in_epoch
+ .rodata.system__bb__time__update_in_progress
+                0x00000000080041ec        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o)
+                0x00000000080041ec                system__bb__time__update_in_progress
+ .rodata        0x00000000080041f0       0x25 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-interr.o)
+ *fill*         0x0000000008004215        0x3 
+ .rodata.system__interrupts__default_interrupt_priority
+                0x0000000008004218        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-interr.o)
+                0x0000000008004218                system__interrupts__default_interrupt_priority
+ .rodata        0x000000000800421c        0xd C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprob.o)
+ *fill*         0x0000000008004229        0x3 
+ .rodata.system__tasking__protected_objects__null_po
+                0x000000000800422c        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprob.o)
+                0x000000000800422c                system__tasking__protected_objects__null_po
+ .rodata.system__tasking__restricted__stages__create_restricted_task__2.str1.4
+                0x0000000008004230       0x4a C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tarest.o)
+ *fill*         0x000000000800427a        0x2 
+ .rodata        0x000000000800427c       0x15 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tarest.o)
+ *fill*         0x0000000008004291        0x3 
+ .rodata.system__tasking__initialize.str1.4
+                0x0000000008004294       0x3a C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o)
+ *fill*         0x00000000080042ce        0x2 
+ .rodata        0x00000000080042d0       0x42 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o)
+ *fill*         0x0000000008004312        0x2 
+ .rodata.system__tasking__idle_priority
+                0x0000000008004314        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o)
+                0x0000000008004314                system__tasking__idle_priority
+ .rodata.system__tasking__library_task_level
+                0x0000000008004318        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o)
+                0x0000000008004318                system__tasking__library_task_level
+ .rodata.system__tasking__null_task
+                0x000000000800431c        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o)
+                0x000000000800431c                system__tasking__null_task
+ .rodata.system__tasking__task_statesN
+                0x0000000008004320       0x22 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o)
+                0x0000000008004320                system__tasking__task_statesN
+ *fill*         0x0000000008004342        0x2 
+ .rodata.system__tasking__task_statesS
+                0x0000000008004344      0x130 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o)
+                0x0000000008004344                system__tasking__task_statesS
+ .rodata.system__bb__threads__null_thread_id
+                0x0000000008004474        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthre.o)
+                0x0000000008004474                system__bb__threads__null_thread_id
+ .rodata.system__bb__threads__thread_statesN
+                0x0000000008004478        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthre.o)
+                0x0000000008004478                system__bb__threads__thread_statesN
+ .rodata.system__bb__threads__thread_statesS
+                0x000000000800447c       0x18 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthre.o)
+                0x000000000800447c                system__bb__threads__thread_statesS
+ .rodata.system__bb__timing_events__timing_eventB10s
+                0x0000000008004494       0x1c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtiev.o)
+                0x0000000008004494                system__bb__timing_events__timing_eventB10s
+ .rodata.system__bb__timing_events__timing_eventE6s
+                0x00000000080044b0       0x25 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtiev.o)
+                0x00000000080044b0                system__bb__timing_events__timing_eventE6s
+ *fill*         0x00000000080044d5        0x3 
+ .rodata.system__bb__timing_events__timing_eventP
+                0x00000000080044d8        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtiev.o)
+                0x00000000080044d8                system__bb__timing_events__timing_eventP
+ .rodata.system__bb__timing_events__timing_eventR8s
+                0x00000000080044dc        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtiev.o)
+                0x00000000080044dc                system__bb__timing_events__timing_eventR8s
+ .rodata.system__bb__timing_events__timing_eventR8s___UNC
+                0x00000000080044e0        0xc C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtiev.o)
+                0x00000000080044e0                system__bb__timing_events__timing_eventR8s___UNC
+ .rodata.system__bb__timing_events__timing_eventT
+                0x00000000080044ec       0x1c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtiev.o)
+                0x00000000080044ec                system__bb__timing_events__timing_eventT
+ .rodata.system__bb__timing_events__timing_eventY
+                0x0000000008004508        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtiev.o)
+                0x0000000008004508                system__bb__timing_events__timing_eventY
+ .rodata.system__task_primitives__operations__idle_stack_size
+                0x000000000800450c        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x000000000800450c                system__task_primitives__operations__idle_stack_size
+ .rodata.system__parameters__c_malloc_linkname
+                0x0000000008004510        0xd C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-parame.o)
+                0x0000000008004510                system__parameters__c_malloc_linkname
+ *fill*         0x000000000800451d        0x3 
+ .rodata.system__parameters__default_stack_size
+                0x0000000008004520        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-parame.o)
+                0x0000000008004520                system__parameters__default_stack_size
+ .rodata.system__parameters__garbage_collected
+                0x0000000008004524        0x1 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-parame.o)
+                0x0000000008004524                system__parameters__garbage_collected
+ *fill*         0x0000000008004525        0x3 
+ .rodata.system__parameters__minimum_stack_size
+                0x0000000008004528        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-parame.o)
+                0x0000000008004528                system__parameters__minimum_stack_size
+ .rodata.system__parameters__no_abort
+                0x000000000800452c        0x1 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-parame.o)
+                0x000000000800452c                system__parameters__no_abort
+ *fill*         0x000000000800452d        0x3 
+ .rodata.system__parameters__runtime_default_sec_stack_size
+                0x0000000008004530        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-parame.o)
+                0x0000000008004530                system__parameters__runtime_default_sec_stack_size
+ .rodata.system__parameters__stack_grows_down
+                0x0000000008004534        0x1 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-parame.o)
+                0x0000000008004534                system__parameters__stack_grows_down
+ *fill*         0x0000000008004535        0x3 
+ .rodata.system__parameters__unspecified_size
+                0x0000000008004538        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-parame.o)
+                0x0000000008004538                system__parameters__unspecified_size
+ .rodata        0x000000000800453c        0xd C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-secsta.o)
+ *fill*         0x0000000008004549        0x3 
+ .rodata        0x000000000800454c        0x1 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(setup_pll.o)
+                0x0000000008004550                . = ALIGN (0x4)
+ *fill*         0x000000000800454d        0x3 
+                0x0000000008004550                __rom_end = .
+                0x0000000008004550                __data_load = __rom_end
+
+.rel.dyn        0x0000000008004550        0x0
+ .rel.iplt      0x0000000008004550        0x0 main.o
+
+.data           0x0000000020000000      0x650 load address 0x0000000008004550
+                0x0000000020000000                __data_start = .
+ *(.data .data.* .gnu.linkonce.d*)
+ .data          0x0000000020000000        0x0 main.o
+ .data          0x0000000020000000        0x2 b__main.o
+                0x0000000020000000                ada_main_E
+ .data          0x0000000020000002        0x0 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4.o
+ .data          0x0000000020000002        0x0 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-gpio.o
+ .data          0x0000000020000002        0x0 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-reset_clock_control.o
+ .data          0x0000000020000002        0x0 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-sysconfig_control.o
+ .data          0x0000000020000002        0x2 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\registers.o
+                0x0000000020000002                registers_E
+ .data          0x0000000020000004        0x2 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\button.o
+                0x0000000020000004                button_E
+ .data          0x0000000020000006        0x2 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\leds.o
+                0x0000000020000006                leds_E
+ .data          0x0000000020000008        0x9 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\driver.o
+                0x0000000020000008                driver_E
+                0x000000002000000a                driver__controllerTKE
+                0x000000002000000c                driver__controllerTKZ
+                0x0000000020000010                driver__J11s
+ *fill*         0x0000000020000011        0x1 
+ .data          0x0000000020000012        0x2 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\last_chance_handler.o
+                0x0000000020000012                last_chance_handler_E
+ .data          0x0000000020000014        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+ .data.ada__real_time_E
+                0x0000000020000014        0x2 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+                0x0000000020000014                ada__real_time_E
+ .data          0x0000000020000016        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-retide.o)
+ .data.ada__real_time__delays_E
+                0x0000000020000016        0x2 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-retide.o)
+                0x0000000020000016                ada__real_time__delays_E
+ .data          0x0000000020000018        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+ .data          0x0000000020000018        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+ .data.A.137    0x0000000020000018       0x40 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+ .data.A.138    0x0000000020000058       0x44 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+ .data          0x000000002000009c        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbinte.o)
+ .data.system__bb__interrupts__interrupt_being_handled
+                0x000000002000009c        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbinte.o)
+                0x000000002000009c                system__bb__interrupts__interrupt_being_handled
+ .data.system__bb__interrupts__interrupt_handlers_table
+                0x00000000200000a0      0x14c C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbinte.o)
+                0x00000000200000a0                system__bb__interrupts__interrupt_handlers_table
+ .data          0x00000000200001ec        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthqu.o)
+ .data.__gnat_running_thread_table
+                0x00000000200001ec        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthqu.o)
+                0x00000000200001ec                __gnat_running_thread_table
+ .data.first_thread_table
+                0x00000000200001f0        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthqu.o)
+                0x00000000200001f0                first_thread_table
+ .data.system__bb__threads__queues__alarms_table
+                0x00000000200001f4        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthqu.o)
+                0x00000000200001f4                system__bb__threads__queues__alarms_table
+ .data.system__bb__threads__queues__global_list
+                0x00000000200001f8        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthqu.o)
+                0x00000000200001f8                system__bb__threads__queues__global_list
+ .data          0x00000000200001fc        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o)
+ .data.system__bb__time__alarm_lock
+                0x00000000200001fc        0x2 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o)
+                0x00000000200001fc                system__bb__time__alarm_lock
+ *fill*         0x00000000200001fe        0x2 
+ .data.system__bb__time__max_sleep
+                0x0000000020000200        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o)
+                0x0000000020000200                system__bb__time__max_sleep
+ .data.system__bb__time__pending_alarm
+                0x0000000020000208        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o)
+                0x0000000020000208                system__bb__time__pending_alarm
+ .data.system__bb__time__scheduling_event_hook
+                0x0000000020000210        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o)
+                0x0000000020000210                system__bb__time__scheduling_event_hook
+ .data.system__bb__time__software_clock
+                0x0000000020000214        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o)
+                0x0000000020000214                system__bb__time__software_clock
+ .data          0x000000002000021c        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bcpcst.o)
+ .data          0x000000002000021c        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-interr.o)
+ .data.system__interrupts__user_handlers
+                0x000000002000021c      0x3e4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-interr.o)
+ .data          0x0000000020000600        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprob.o)
+ .data.system__tasking__protected_objects_E
+                0x0000000020000600        0x2 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprob.o)
+                0x0000000020000600                system__tasking__protected_objects_E
+ .data          0x0000000020000602        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tarest.o)
+ .data.__gnat_partition_elaboration_policy
+                0x0000000020000602        0x1 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tarest.o)
+                0x0000000020000602                __gnat_partition_elaboration_policy
+ *fill*         0x0000000020000603        0x1 
+ .data.system__tasking__restricted__stages_E
+                0x0000000020000604        0x2 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tarest.o)
+                0x0000000020000604                system__tasking__restricted__stages_E
+ *fill*         0x0000000020000606        0x2 
+ .data.system__tasking__restricted__stages__tasks_activation_chain
+                0x0000000020000608        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tarest.o)
+ .data          0x000000002000060c        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tasdeb.o)
+ .data.system__tasking__debug_E
+                0x000000002000060c        0x2 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tasdeb.o)
+                0x000000002000060c                system__tasking__debug_E
+ *fill*         0x000000002000060e        0x2 
+ .data.system__tasking__debug__first_task
+                0x0000000020000610        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tasdeb.o)
+                0x0000000020000610                system__tasking__debug__first_task
+ .data.system__tasking__debug__last_task
+                0x0000000020000614        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tasdeb.o)
+                0x0000000020000614                system__tasking__debug__last_task
+ .data          0x0000000020000618        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o)
+ .data.__gl_main_cpu
+                0x0000000020000618        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o)
+                0x0000000020000618                __gl_main_cpu
+ .data.__gl_main_priority
+                0x000000002000061c        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o)
+                0x000000002000061c                __gl_main_priority
+ .data.system__tasking__fall_back_handler
+                0x0000000020000620        0x8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o)
+                0x0000000020000620                system__tasking__fall_back_handler
+ .data.system__tasking__initialized
+                0x0000000020000628        0x1 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o)
+ .data          0x0000000020000629        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(handler.o)
+ .data          0x0000000020000629        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbprot.o)
+ *fill*         0x0000000020000629        0x3 
+ .data.system__bb__protection__wakeup_served_entry_callback
+                0x000000002000062c        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbprot.o)
+                0x000000002000062c                system__bb__protection__wakeup_served_entry_callback
+ .data          0x0000000020000630        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthre.o)
+ .data.system__bb__threads__initialized
+                0x0000000020000630        0x1 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthre.o)
+                0x0000000020000630                system__bb__threads__initialized
+ .data          0x0000000020000631        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtiev.o)
+ *fill*         0x0000000020000631        0x1 
+ .data.system__bb__timing_events_E
+                0x0000000020000632        0x2 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtiev.o)
+                0x0000000020000632                system__bb__timing_events_E
+ .data.system__bb__timing_events__events_table
+                0x0000000020000634        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtiev.o)
+                0x0000000020000634                system__bb__timing_events__events_table
+ .data          0x0000000020000638        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+ .data.system__task_primitives__operations__environment_task
+                0x0000000020000638        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x0000000020000638                system__task_primitives__operations__environment_task
+ .data          0x000000002000063c        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(breakpoint_handler-cortexm.o)
+ .data          0x000000002000063c        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-memcop.o)
+ .data.system__memory_copy_E
+                0x000000002000063c        0x2 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-memcop.o)
+                0x000000002000063c                system__memory_copy_E
+ .data          0x000000002000063e        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-memset.o)
+ .data.system__memory_set_E
+                0x000000002000063e        0x2 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-memset.o)
+                0x000000002000063e                system__memory_set_E
+ .data          0x0000000020000640        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-parame.o)
+ .data.system__parameters_E
+                0x0000000020000640        0x2 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-parame.o)
+                0x0000000020000640                system__parameters_E
+ .data          0x0000000020000642        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-secsta.o)
+ .data.system__secondary_stack_E
+                0x0000000020000642        0x2 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-secsta.o)
+                0x0000000020000642                system__secondary_stack_E
+ .data.system__secondary_stack__num_of_assigned_stacks
+                0x0000000020000644        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-secsta.o)
+                0x0000000020000644                system__secondary_stack__num_of_assigned_stacks
+ .data          0x0000000020000648        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(start-rom.o)
+ .data          0x0000000020000648        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-macres.o)
+ .data.system__machine_reset_E
+                0x0000000020000648        0x2 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-macres.o)
+                0x0000000020000648                system__machine_reset_E
+ .data          0x000000002000064a        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(setup_pll.o)
+ .data.setup_pll_E
+                0x000000002000064a        0x2 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(setup_pll.o)
+                0x000000002000064a                setup_pll_E
+ .data          0x000000002000064c        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(start-common.o)
+ .data          0x000000002000064c        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-bbmcpa.o)
+ .data.system__bb__mcu_parameters_E
+                0x000000002000064c        0x2 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-bbmcpa.o)
+                0x000000002000064c                system__bb__mcu_parameters_E
+ .data          0x000000002000064e        0x0 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .data          0x000000002000064e        0x0 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x000000002000064e        0x0 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .data          0x000000002000064e        0x0 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+                0x0000000020000650                . = ALIGN (0x4)
+ *fill*         0x000000002000064e        0x2 
+                0x0000000020000650                __data_end = .
+                0x0000000000000194                __data_words = ((__data_end - __data_start) >> 0x2)
+                0x0000000008004ba0                __ccmdata_load = (__rom_end + (__data_words << 0x2))
+
+.igot.plt       0x0000000020000650        0x0 load address 0x0000000008004ba0
+ .igot.plt      0x0000000020000650        0x0 main.o
+
+.ccmdata        0x0000000010000000        0x0 load address 0x0000000008004ba0
+                0x0000000010000000                __ccmdata_start = .
+ *(.ccmdata .ccmdata.*)
+                0x0000000010000000                . = ALIGN (0x4)
+                0x0000000010000000                __ccmdata_end = .
+                0x0000000000000000                __ccmdata_words = ((__ccmdata_end - __ccmdata_start) >> 0x2)
+
+.bss            0x0000000020000650     0x36f0 load address 0x0000000008004ba0
+                0x0000000020000650                . = ALIGN (0x8)
+                0x0000000020000650                __bss_start = .
+ *(.bss .bss.*)
+ .bss           0x0000000020000650        0x0 main.o
+ .bss           0x0000000020000650      0x420 b__main.o
+ .bss           0x0000000020000a70        0x0 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4.o
+ .bss           0x0000000020000a70        0x0 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-gpio.o
+ .bss           0x0000000020000a70        0x0 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-reset_clock_control.o
+ .bss           0x0000000020000a70        0x0 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-sysconfig_control.o
+ .bss           0x0000000020000a70        0x0 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\registers.o
+ .bss           0x0000000020000a70       0x28 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\button.o
+ .bss           0x0000000020000a98        0x0 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\leds.o
+ .bss           0x0000000020000a98     0x10d0 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\driver.o
+                0x0000000020000a98                driver___chain
+                0x0000000020000aa0                driver__controller
+ .bss           0x0000000020001b68        0x0 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\last_chance_handler.o
+ .bss           0x0000000020001b68        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+ .bss           0x0000000020001b68        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-retide.o)
+ .bss           0x0000000020001b68        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+ .bss.__gnat_alarm_time
+                0x0000000020001b68        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x0000000020001b68                __gnat_alarm_time
+ .bss.system__bb__board_support__next_tick_time
+                0x0000000020001b6c        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+                0x0000000020001b6c                system__bb__board_support__next_tick_time
+ .bss           0x0000000020001b70        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+ .bss.__gnat_bb_exception_handlers
+                0x0000000020001b70       0x44 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+                0x0000000020001b70                __gnat_bb_exception_handlers
+ .bss           0x0000000020001bb4        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbinte.o)
+ .bss.interrupt_stack_table
+                0x0000000020001bb4        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbinte.o)
+                0x0000000020001bb4                interrupt_stack_table
+ .bss           0x0000000020001bb8        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthqu.o)
+ .bss           0x0000000020001bb8        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o)
+ .bss           0x0000000020001bb8        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bcpcst.o)
+ .bss           0x0000000020001bb8        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-interr.o)
+ .bss           0x0000000020001bb8        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprob.o)
+ .bss           0x0000000020001bb8        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tarest.o)
+ .bss           0x0000000020001bb8        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tasdeb.o)
+ .bss           0x0000000020001bb8        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o)
+ .bss.system__tasking__environment_task
+                0x0000000020001bb8       0xb8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o)
+ .bss           0x0000000020001c70        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(handler.o)
+ .bss           0x0000000020001c70        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbprot.o)
+ .bss           0x0000000020001c70        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthre.o)
+ .bss           0x0000000020001c70        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtiev.o)
+ .bss           0x0000000020001c70        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+ .bss.__gnat_idle_stack_table
+                0x0000000020001c70        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x0000000020001c70                __gnat_idle_stack_table
+ *fill*         0x0000000020001c74        0x4 
+ .bss.system__task_primitives__operations__idle_stacks
+                0x0000000020001c78      0x800 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x0000000020001c78                system__task_primitives__operations__idle_stacks
+ .bss.system__task_primitives__operations__idle_tasks
+                0x0000000020002478       0xb8 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+                0x0000000020002478                system__task_primitives__operations__idle_tasks
+ .bss           0x0000000020002530        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(breakpoint_handler-cortexm.o)
+ .bss           0x0000000020002530        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-memcop.o)
+ .bss           0x0000000020002530        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-memset.o)
+ .bss           0x0000000020002530        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-parame.o)
+ .bss           0x0000000020002530        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-secsta.o)
+ .bss.__gnat_binder_ss_count
+                0x0000000020002530        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-secsta.o)
+                0x0000000020002530                __gnat_binder_ss_count
+ .bss.__gnat_default_ss_pool
+                0x0000000020002534        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-secsta.o)
+                0x0000000020002534                __gnat_default_ss_pool
+ .bss.__gnat_default_ss_size
+                0x0000000020002538        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-secsta.o)
+                0x0000000020002538                __gnat_default_ss_size
+ .bss.system__secondary_stack__ss_pool
+                0x000000002000253c        0x4 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-secsta.o)
+                0x000000002000253c                system__secondary_stack__ss_pool
+ .bss           0x0000000020002540        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(start-rom.o)
+ .bss           0x0000000020002540        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-macres.o)
+ .bss           0x0000000020002540        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(setup_pll.o)
+ .bss           0x0000000020002540        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(start-common.o)
+ .bss           0x0000000020002540        0x0 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-bbmcpa.o)
+ .bss           0x0000000020002540        0x0 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x0000000020002540        0x0 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x0000000020002540        0x0 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .bss           0x0000000020002540        0x0 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+ *(COMMON)
+                0x0000000020002540                . = ALIGN (0x8)
+                0x0000000020002540                __bss_end = .
+                0x0000000020002540                __interrupt_stack_start = .
+ *(.interrupt_stacks)
+ .interrupt_stacks
+                0x0000000020002540      0x800 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbinte.o)
+                0x0000000020002540                system__bb__interrupts__interrupt_stacks
+                0x0000000020002d40                . = ALIGN (0x8)
+                0x0000000020002d40                __interrupt_stack_end = .
+                0x0000000020002d40                __stack_start = .
+                0x0000000020003d40                . = (. + DEFINED (__stack_size)?__stack_size:_DEFAULT_STACK_SIZE)
+ *fill*         0x0000000020002d40     0x1000 
+                0x0000000020003d40                . = ALIGN (0x8)
+                0x0000000020003d40                __stack_end = .
+                0x0000000020003d40                _end = .
+                0x0000000020003d40                __heap_start = .
+                0x0000000020020000                __heap_end = (ORIGIN (sram_bs) + LENGTH (sram_bs))
+                0x00000000000007bc                __bss_words = ((__bss_end - __bss_start) >> 0x2)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x1e0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x20 main.o
+ .debug_aranges
+                0x0000000000000020       0x20 b__main.o
+ .debug_aranges
+                0x0000000000000040       0x18 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4.o
+ .debug_aranges
+                0x0000000000000058       0x18 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-gpio.o
+ .debug_aranges
+                0x0000000000000070       0x18 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-reset_clock_control.o
+ .debug_aranges
+                0x0000000000000088       0x18 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-sysconfig_control.o
+ .debug_aranges
+                0x00000000000000a0       0x20 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\registers.o
+ .debug_aranges
+                0x00000000000000c0       0x20 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\button.o
+ .debug_aranges
+                0x00000000000000e0       0x20 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\leds.o
+ .debug_aranges
+                0x0000000000000100       0x20 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\driver.o
+ .debug_aranges
+                0x0000000000000120       0x20 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\last_chance_handler.o
+ .debug_aranges
+                0x0000000000000140       0x20 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tasdeb.o)
+ .debug_aranges
+                0x0000000000000160       0x20 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .debug_aranges
+                0x0000000000000180       0x20 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_aranges
+                0x00000000000001a0       0x20 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_aranges
+                0x00000000000001c0       0x20 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x3ae1
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000       0x3c main.o
+ .debug_info    0x000000000000003c      0x483 b__main.o
+ .debug_info    0x00000000000004bf      0x1ad C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4.o
+ .debug_info    0x000000000000066c      0x1c4 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-gpio.o
+ .debug_info    0x0000000000000830      0x45d C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-reset_clock_control.o
+ .debug_info    0x0000000000000c8d       0x48 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-sysconfig_control.o
+ .debug_info    0x0000000000000cd5      0x546 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\registers.o
+ .debug_info    0x000000000000121b      0x992 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\button.o
+ .debug_info    0x0000000000001bad      0x1bf C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\leds.o
+ .debug_info    0x0000000000001d6c      0x866 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\driver.o
+ .debug_info    0x00000000000025d2       0x72 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\last_chance_handler.o
+ .debug_info    0x0000000000002644      0x6af C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tasdeb.o)
+ .debug_info    0x0000000000002cf3       0x26 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .debug_info    0x0000000000002d19       0x26 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_info    0x0000000000002d3f      0xd7c c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_info    0x0000000000003abb       0x26 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+
+.debug_abbrev   0x0000000000000000     0x10b9
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0x2e main.o
+ .debug_abbrev  0x000000000000002e      0x228 b__main.o
+ .debug_abbrev  0x0000000000000256       0x44 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4.o
+ .debug_abbrev  0x000000000000029a       0x5c C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-gpio.o
+ .debug_abbrev  0x00000000000002f6       0x6b C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-reset_clock_control.o
+ .debug_abbrev  0x0000000000000361       0x28 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-sysconfig_control.o
+ .debug_abbrev  0x0000000000000389      0x116 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\registers.o
+ .debug_abbrev  0x000000000000049f      0x335 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\button.o
+ .debug_abbrev  0x00000000000007d4      0x10b C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\leds.o
+ .debug_abbrev  0x00000000000008df      0x309 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\driver.o
+ .debug_abbrev  0x0000000000000be8       0x79 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\last_chance_handler.o
+ .debug_abbrev  0x0000000000000c61      0x25a C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tasdeb.o)
+ .debug_abbrev  0x0000000000000ebb       0x14 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .debug_abbrev  0x0000000000000ecf       0x14 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_abbrev  0x0000000000000ee3      0x1c2 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_abbrev  0x00000000000010a5       0x14 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+
+.debug_line     0x0000000000000000     0x1589
+ *(.debug_line)
+ .debug_line    0x0000000000000000       0xa6 main.o
+ .debug_line    0x00000000000000a6      0x130 b__main.o
+ .debug_line    0x00000000000001d6       0x92 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4.o
+ .debug_line    0x0000000000000268       0x97 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-gpio.o
+ .debug_line    0x00000000000002ff       0xa6 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-reset_clock_control.o
+ .debug_line    0x00000000000003a5       0x1d C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-sysconfig_control.o
+ .debug_line    0x00000000000003c2      0x111 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\registers.o
+ .debug_line    0x00000000000004d3      0x27c C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\button.o
+ .debug_line    0x000000000000074f      0x215 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\leds.o
+ .debug_line    0x0000000000000964      0x20d C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\driver.o
+ .debug_line    0x0000000000000b71       0xd5 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\last_chance_handler.o
+ .debug_line    0x0000000000000c46      0x1ba C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tasdeb.o)
+ .debug_line    0x0000000000000e00       0x85 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .debug_line    0x0000000000000e85       0x67 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_line    0x0000000000000eec      0x636 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_line    0x0000000000001522       0x67 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+
+.debug_frame    0x0000000000000000      0x644
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x28 main.o
+ .debug_frame   0x0000000000000028       0x98 b__main.o
+ .debug_frame   0x00000000000000c0       0x88 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4.o
+ .debug_frame   0x0000000000000148       0x38 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-gpio.o
+ .debug_frame   0x0000000000000180       0x38 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-reset_clock_control.o
+ .debug_frame   0x00000000000001b8       0x60 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-sysconfig_control.o
+ .debug_frame   0x0000000000000218       0x30 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\registers.o
+ .debug_frame   0x0000000000000248      0x130 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\button.o
+ .debug_frame   0x0000000000000378      0x110 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\leds.o
+ .debug_frame   0x0000000000000488       0xb0 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\driver.o
+ .debug_frame   0x0000000000000538       0x30 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\last_chance_handler.o
+ .debug_frame   0x0000000000000568       0x38 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tasdeb.o)
+ .debug_frame   0x00000000000005a0       0x44 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .debug_frame   0x00000000000005e4       0x2c c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x0000000000000610       0x34 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+
+.debug_str      0x0000000000000000     0x4284
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x259 main.o
+                                        0x25e (size before relaxing)
+ .debug_str     0x0000000000000259      0x76e b__main.o
+                                        0x815 (size before relaxing)
+ .debug_str     0x00000000000009c7      0x2b9 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4.o
+                                        0x4a1 (size before relaxing)
+ .debug_str     0x0000000000000c80      0x263 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-gpio.o
+                                        0x4d6 (size before relaxing)
+ .debug_str     0x0000000000000ee3      0x9b3 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-reset_clock_control.o
+                                        0xbdb (size before relaxing)
+ .debug_str     0x0000000000001896       0x84 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-sysconfig_control.o
+                                        0x2e1 (size before relaxing)
+ .debug_str     0x000000000000191a      0x3b4 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\registers.o
+                                        0x67a (size before relaxing)
+ .debug_str     0x0000000000001cce      0xc82 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\button.o
+                                       0x11c6 (size before relaxing)
+ .debug_str     0x0000000000002950      0x18e C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\leds.o
+                                        0x429 (size before relaxing)
+ .debug_str     0x0000000000002ade      0x144 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\driver.o
+                                        0xf56 (size before relaxing)
+ .debug_str     0x0000000000002c22       0xc7 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\last_chance_handler.o
+                                        0x2af (size before relaxing)
+ .debug_str     0x0000000000002ce9      0x399 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tasdeb.o)
+                                        0xeff (size before relaxing)
+ .debug_str     0x0000000000003082       0x96 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .debug_str     0x0000000000003118       0x96 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_str     0x0000000000003118     0x1135 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+                                       0x11cc (size before relaxing)
+ .debug_str     0x000000000000424d       0x37 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+                                         0x9a (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x101c
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000     0x101c c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000       0xf0
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x10 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tasdeb.o)
+ .debug_ranges  0x0000000000000010       0xe0 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+
+.comment        0x0000000000000000       0x3d
+ .comment       0x0000000000000000       0x3d main.o
+                                         0x3e (size before relaxing)
+ .comment       0x000000000000003d       0x3e b__main.o
+ .comment       0x000000000000003d       0x3e C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4.o
+ .comment       0x000000000000003d       0x3e C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-gpio.o
+ .comment       0x000000000000003d       0x3e C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-reset_clock_control.o
+ .comment       0x000000000000003d       0x3e C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-sysconfig_control.o
+ .comment       0x000000000000003d       0x3e C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\registers.o
+ .comment       0x000000000000003d       0x3e C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\button.o
+ .comment       0x000000000000003d       0x3e C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\leds.o
+ .comment       0x000000000000003d       0x3e C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\driver.o
+ .comment       0x000000000000003d       0x3e C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\last_chance_handler.o
+ .comment       0x000000000000003d       0x3e C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+ .comment       0x000000000000003d       0x3e C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-retide.o)
+ .comment       0x000000000000003d       0x3e C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+ .comment       0x000000000000003d       0x3e C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+ .comment       0x000000000000003d       0x3e C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbinte.o)
+ .comment       0x000000000000003d       0x3e C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthqu.o)
+ .comment       0x000000000000003d       0x3e C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o)
+ .comment       0x000000000000003d       0x3e C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bcpcst.o)
+ .comment       0x000000000000003d       0x3e C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-interr.o)
+ .comment       0x000000000000003d       0x3e C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprob.o)
+ .comment       0x000000000000003d       0x3e C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tarest.o)
+ .comment       0x000000000000003d       0x3e C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tasdeb.o)
+ .comment       0x000000000000003d       0x3e C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o)
+ .comment       0x000000000000003d       0x3e C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbprot.o)
+ .comment       0x000000000000003d       0x3e C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthre.o)
+ .comment       0x000000000000003d       0x3e C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtiev.o)
+ .comment       0x000000000000003d       0x3e C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+ .comment       0x000000000000003d       0x3e C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-memcop.o)
+ .comment       0x000000000000003d       0x3e C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-memset.o)
+ .comment       0x000000000000003d       0x3e C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-parame.o)
+ .comment       0x000000000000003d       0x3e C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-secsta.o)
+ .comment       0x000000000000003d       0x3e C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-macres.o)
+ .comment       0x000000000000003d       0x3e C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(setup_pll.o)
+ .comment       0x000000000000003d       0x3e C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-bbmcpa.o)
+ .comment       0x000000000000003d       0x3e c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+
+.ARM.attributes
+                0x0000000000000000       0x32
+ .ARM.attributes
+                0x0000000000000000       0x32 main.o
+ .ARM.attributes
+                0x0000000000000032       0x32 b__main.o
+ .ARM.attributes
+                0x0000000000000064       0x32 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4.o
+ .ARM.attributes
+                0x0000000000000096       0x32 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-gpio.o
+ .ARM.attributes
+                0x00000000000000c8       0x32 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-reset_clock_control.o
+ .ARM.attributes
+                0x00000000000000fa       0x32 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\stm32f4-sysconfig_control.o
+ .ARM.attributes
+                0x000000000000012c       0x32 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\registers.o
+ .ARM.attributes
+                0x000000000000015e       0x32 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\button.o
+ .ARM.attributes
+                0x0000000000000190       0x32 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\leds.o
+ .ARM.attributes
+                0x00000000000001c2       0x32 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\driver.o
+ .ARM.attributes
+                0x00000000000001f4       0x32 C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab2\obj\last_chance_handler.o
+ .ARM.attributes
+                0x0000000000000226       0x32 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-reatim.o)
+ .ARM.attributes
+                0x0000000000000258       0x32 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(a-retide.o)
+ .ARM.attributes
+                0x000000000000028a       0x32 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbbosu.o)
+ .ARM.attributes
+                0x00000000000002bc       0x32 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbcppr.o)
+ .ARM.attributes
+                0x00000000000002ee       0x32 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbinte.o)
+ .ARM.attributes
+                0x0000000000000320       0x32 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthqu.o)
+ .ARM.attributes
+                0x0000000000000352       0x32 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtime.o)
+ .ARM.attributes
+                0x0000000000000384       0x32 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bcpcst.o)
+ .ARM.attributes
+                0x00000000000003b6       0x32 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-interr.o)
+ .ARM.attributes
+                0x00000000000003e8       0x32 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprob.o)
+ .ARM.attributes
+                0x000000000000041a       0x32 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tarest.o)
+ .ARM.attributes
+                0x000000000000044c       0x32 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-tasdeb.o)
+ .ARM.attributes
+                0x000000000000047e       0x32 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taskin.o)
+ .ARM.attributes
+                0x00000000000004b0       0x25 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(handler.o)
+ .ARM.attributes
+                0x00000000000004d5       0x32 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbprot.o)
+ .ARM.attributes
+                0x0000000000000507       0x32 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbthre.o)
+ .ARM.attributes
+                0x0000000000000539       0x32 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-bbtiev.o)
+ .ARM.attributes
+                0x000000000000056b       0x32 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnarl.a(s-taprop.o)
+ .ARM.attributes
+                0x000000000000059d       0x25 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(breakpoint_handler-cortexm.o)
+ .ARM.attributes
+                0x00000000000005c2       0x32 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-memcop.o)
+ .ARM.attributes
+                0x00000000000005f4       0x32 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-memset.o)
+ .ARM.attributes
+                0x0000000000000626       0x32 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-parame.o)
+ .ARM.attributes
+                0x0000000000000658       0x32 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-secsta.o)
+ .ARM.attributes
+                0x000000000000068a       0x25 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(start-rom.o)
+ .ARM.attributes
+                0x00000000000006af       0x32 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-macres.o)
+ .ARM.attributes
+                0x00000000000006e1       0x32 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(setup_pll.o)
+ .ARM.attributes
+                0x0000000000000713       0x25 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(start-common.o)
+ .ARM.attributes
+                0x0000000000000738       0x32 C:\gnat\2020-arm-elf\arm-eabi\lib\gnat\ravenscar-sfp-stm32f4\adalib\libgnat.a(s-bbmcpa.o)
+ .ARM.attributes
+                0x000000000000076a       0x1e c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x0000000000000788       0x1e c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000000000007a6       0x34 c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000000000007da       0x1e c:/gnat/2020-arm-elf/bin/../lib/gcc/arm-eabi/9.3.1/thumb/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(main elf32-littlearm)
+LOAD linker stubs

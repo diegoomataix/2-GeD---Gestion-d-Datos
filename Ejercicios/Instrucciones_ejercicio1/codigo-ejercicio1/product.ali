@@ -1,0 +1,41 @@
+V "GNAT Lib v2020"
+M P W=b
+A -O2
+A -gnatA
+A -g
+A -gnatc
+A -mtune=generic
+A -march=x86-64
+P NO FX
+
+RN
+RV NO_FLOATING_POINT
+RV NO_IMPLEMENTATION_PRAGMAS
+RV NO_ELABORATION_CODE
+
+U product%b		product.adb		fd954e2b OO SU
+W system%s		system.ads		system.ali
+W system.io%s		s-io.adb		s-io.ali
+
+D product.adb		20180214093542 63d7b964 product%b
+D system.ads		20200228061810 32a08138 system%s
+D s-io.ads		20200228061810 9e42f74f system.io%s
+G a e
+G c Z b b [product standard 3 11 none]
+X 1 product.adb
+3U11*Product 3b11 28l5 28t12
+5a4 A(float) 18r37
+9a4 B(float) 18r46
+11a4 C(float) 16m10 18m14 18r26 24r38
+14i8 I{integer} 16r13 18r17 18r29 18r40
+15i11 J{integer} 16r16 18r20 18r32 18r51
+17i14 K{integer} 18r43 18r48
+22i8 I{integer} 24r41
+23i11 J{integer} 24r44
+X 2 system.ads
+37K9*System 1|1r6 24r10 26r7 2|200e11
+X 3 s-io.ads
+37K16*IO 1|1w13 24r17 26r14 3|64e14
+44U14*Put 1|24s20
+47U14*New_Line 1|26s17
+

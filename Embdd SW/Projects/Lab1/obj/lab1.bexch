@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__lab1.o
+[PROJECT FILES]
+C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab1\lab1.gpr
+20210317155034 efc52b3dcd12979f4ecaf0911f6e366f
+[BOUND OBJECT FILES]
+C:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab1\obj\lab1.o
+[GENERATED SOURCE FILES]
+b__lab1.ads
+b__lab1.adb
+b__lab1.ali
+[RESULTING OPTIONS]
+-LC:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab1\obj\
+-LC:\Users\diego\Dropbox\Academic\MEng Space Systems\2 GeD - Gestion d Datos\Embdd SW\Projects\Lab1\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
